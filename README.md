@@ -7,6 +7,9 @@ Sigue estos pasos para configurar tu entorno y comenzar a trabajar en el proyect
 ### 1. Instalar Visual Studio Code
 Descarga e instala Visual Studio Code desde el siguiente enlace:
 [https://code.visualstudio.com/](https://code.visualstudio.com/)
+visual studio también es una opción para programan con python
+Prueba número tres en README.md
+MOdificanfo las líneas de #W!"#DComando#
 
 ### 2. Instalar Git
 Descarga e instala Git desde el sitio oficial:
@@ -60,3 +63,4 @@ git push -u origin mi-rama
 Ahora estás listo para comenzar a desarrollar en **Guess_the_number**. ¡Diviértete programando! 🚀
 Hola mundo
 
+Última linea de comadno, finish...!!!!!
